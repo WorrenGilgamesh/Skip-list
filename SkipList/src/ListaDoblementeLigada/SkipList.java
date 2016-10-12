@@ -9,6 +9,16 @@ package ListaDoblementeLigada;
  *
  * @author dai
  */
-public class SkipList {
+public class SkipList 
+{
+    SkipList der;
+    SkipList salto;
+
+    public SkipList() 
+    {
+        
+    }
+    
+    
     
 }
